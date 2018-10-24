@@ -1,4 +1,4 @@
-# We Rate Dogs – Wrange Report.
+# We Rate Dogs Twitter Data Analysis.
 
 ## Author: Ram Saran Vuppuluri
 
